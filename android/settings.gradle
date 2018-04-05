@@ -1,0 +1,3 @@
+rootProject.name = 'redadalertastest'
+
+include ':app'

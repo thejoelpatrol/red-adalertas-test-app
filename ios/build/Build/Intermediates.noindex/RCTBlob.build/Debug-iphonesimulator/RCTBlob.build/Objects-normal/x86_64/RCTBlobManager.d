@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/alex/dev/red-adalertas-test/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
+  /Users/alex/dev/red-adalertas-test/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/alex/dev/red-adalertas-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h
