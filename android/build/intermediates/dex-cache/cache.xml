@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f7e1509641c0e7a8652f09b207dc8cd643e1c252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6c589a60acc17bfb81f734afc9c0acc8ad65034d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b10418b68fd60dd7a3caccd50a8a67e32cb333ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f27d382924a38999543381a32cb7fbe7e2d85fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fd1e57d14d1be48ca2d757f342452adf4c1dbec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/libs/ThaliOnionProxyUniversal-0.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ff3c43c301ecfcd2a32ae3ee441724893207aef">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/ThaliOnionProxyUniversal-0.0.2_eb7c274047511fb0f1b20ec45c11480821b45126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4dd75a63ac85f5437a7e3e3ea1791a59861cdc6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/libs/httpcore-4.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/httpcore-4.4.6_0593daac1651e0a91768f7498d32c84b0408cc8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d8ee2ad30ae320a43465540a17f10558ec41b952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ca0fa845d7a9012128a6e8a91cbfe4ae1bae015b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_16754083ae9f2f2bf558dec0d1c3fb093bb21800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/ThaliOnionProxyAndroid-release/jars/libs/jtorctl-briar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a970a7cc2d8d67f2579c5c9b479976527fdd4c9b">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/jtorctl-briar_0e1ea25188580f7fb349e8026b9e062a76bfe4cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_ed4b6c5239b69daa39cb274783b0058ad7900bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5115d22f1a6a42ed40dcc7f0da51a98d0dfc7153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/libs/httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/httpclient-4.5.3_6281ef076ab243aaa93dfeb78d533535255f832b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a63fa92635df603ac4df718c2aab3e5f248a1f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.0_5e6e106d48771f93e4e24744c038e5e132b60a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_407c424cf12f1a09fcedb27998415f0177471195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4bb7e4ba51da3cee767b604141f83de234d1a68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/ThaliOnionProxyAndroid-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ee67a9ec89078a135fce40a469a2e44a3b1a78f">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ThaliOnionProxyAndroid-release_5d685a9b02bc9ad4d848f618dc890ceea95e909e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f9e6c6635466f45a9844f1c6d1bf6460effb9307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_dcd22417ac0a64b90dc54ce43b5aaf90766a1cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9c0ca9c04dc33048765c05a19d6f06833b5e86e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_58c59593d5c1fdaeb2b17b820ce490cbd26abb54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_07745c96d07dff9d36bff0b2ef9d5f30ecb08528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/joel/Documents/Columbia/RedadAlertas/Code/red-adalertas-test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5ce9bcee6654833420be0609f86a8239094e4078.jar" />
+    </item>
+
+</items>

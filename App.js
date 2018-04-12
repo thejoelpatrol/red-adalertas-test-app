@@ -6,6 +6,9 @@ import {
   View
 } from 'react-native';
 
+//import {NativeModules} from 'react-native';
+//import NativeModules.ToastExample;
+
 const DEFAULT_STATE = 'Not Connected'
 
 export default class App extends React.Component {
@@ -14,7 +17,8 @@ export default class App extends React.Component {
   }
 
   connectToTor() {
-    this.setState({status: 'Connected!'})
+    this.setState({status: 'Connecting...'})
+
   }
 
   disconnect() {
