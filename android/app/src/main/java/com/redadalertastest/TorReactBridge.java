@@ -9,6 +9,8 @@ import com.facebook.react.bridge.Callback;
 
 import java.net.URL;
 
+import android.util.Log;
+
 public class TorReactBridge extends ReactContextBaseJavaModule implements URLDataReceiver {
 	private static final String url = "https://laserscorpion.com/other/example.json";
 	private ReactApplicationContext context;
@@ -31,9 +33,14 @@ public class TorReactBridge extends ReactContextBaseJavaModule implements URLDat
 		}
 	}
 
+	@ReactMethod
+	public void beAlive() {
+		Log.d("TorBridge", "we're alive!");
+	}
+
 	@Override
 	public String getName() {
- 		return "TorReachBridge";
+ 		return "TorReactBridge";
  	}		
 
  	@Override

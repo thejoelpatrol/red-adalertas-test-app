@@ -6,8 +6,8 @@ import {
   View
 } from 'react-native';
 
-//import {NativeModules} from 'react-native';
-//import NativeModules.ToastExample;
+import {NativeModules} from 'react-native';
+//import TorReactBridge from NativeModules;
 
 const DEFAULT_STATE = 'Not Connected'
 
@@ -18,7 +18,8 @@ export default class App extends React.Component {
 
   connectToTor() {
     this.setState({status: 'Connecting...'})
-
+    tor = NativeModules.TorReactBridge;
+    tor.beAlive();
   }
 
   disconnect() {
