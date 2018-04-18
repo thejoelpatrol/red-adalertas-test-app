@@ -9,21 +9,25 @@ import com.facebook.react.bridge.Callback;
 
 import java.net.URL;
 
+import android.os.StrictMode;
 import android.util.Log;
 
 public class TorReactBridge extends ReactContextBaseJavaModule implements URLDataReceiver {
-	private static final String url = "https://laserscorpion.com/other/example.json";
+	private static final String TAG = "TorBridge";
+	private static final String url = "https://check.torproject.org/";
 	private ReactApplicationContext context;
 	private Callback callback;
 
 	public TorReactBridge(ReactApplicationContext reactContext) {
   	 	super(reactContext);
   		context = reactContext;
-		
 	}
 
 	@ReactMethod
-	public void doItWoo(Callback callback) {
+	public void connect(Callback callback) {
+
+
+		Log.d(TAG, "going to try to connect!");
 		this.callback = callback;
 		try {
 			TorURLLoader tor = new TorURLLoader(context, new URL(url), this);
@@ -35,7 +39,7 @@ public class TorReactBridge extends ReactContextBaseJavaModule implements URLDat
 
 	@ReactMethod
 	public void beAlive() {
-		Log.d("TorBridge", "we're alive!");
+		Log.d(TAG, "we're alive!");
 	}
 
 	@Override
@@ -45,7 +49,10 @@ public class TorReactBridge extends ReactContextBaseJavaModule implements URLDat
 
  	@Override
  	public void requestComplete(boolean successful, String data) {
-
+		if (successful)
+			callback.invoke(data);
+		else
+			callback.invoke("such failure, very sad");
  	}
 
 

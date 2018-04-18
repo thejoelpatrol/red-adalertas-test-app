@@ -12,14 +12,24 @@ import {NativeModules} from 'react-native';
 const DEFAULT_STATE = 'Not Connected'
 
 export default class App extends React.Component {
-  state = {
-    status: DEFAULT_STATE
+  constructor(props) {
+    super(props);
+    this.state = {
+      status: DEFAULT_STATE
+    }
+    this.resultReceived = this.resultReceived.bind(this);
+  }
+
+  resultReceived(someString) {
+    console.log("resultReceived this: ", this);
+    console.log("resultReceived someString: ", someString);
+    this.setState({status: "Result received"});
   }
 
   connectToTor() {
     this.setState({status: 'Connecting...'})
     tor = NativeModules.TorReactBridge;
-    tor.beAlive();
+    tor.connect(this.resultReceived);
   }
 
   disconnect() {
